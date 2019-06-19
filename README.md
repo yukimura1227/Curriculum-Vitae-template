@@ -74,3 +74,9 @@
 * [ネットメディアの記事](記事のリンクとか)
 * [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
 * [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+### 成果物
+
+#### mameshiba-slack-bot
+社内のルールをゆるく周知して、ルール自体の改善を促すためのbot  
+[yukimura1227/mameshiba-slack-bot](https://github.com/yukimura1227/mameshiba-slack-bot)
